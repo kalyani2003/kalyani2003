@@ -32,13 +32,13 @@ Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com)
 ----
 <p align="center">
 <a href="https://twitter.com/kalyani_mhala">
-  <img align="centre" alt="Kalyani's Twitter" width="40px" align="centre" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="centre" alt="Kalyani's Twitter" width="30px" align="centre" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://instagram.com/unpredicted_soul">
-  <img align="centre" alt="kalyani's Instagram" width="40px"  align="centre" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="centre" alt="kalyani's Instagram" width="30px"  align="centre" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://www.linkedin.com/in/kalyani-mhala-59647921b">
-  <img align="centre" alt="Kalyani's LinkedIn" width="40px" align="centre" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="centre" alt="Kalyani's LinkedIn" width="30px" align="centre" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 </p>
 
