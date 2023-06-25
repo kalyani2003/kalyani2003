@@ -1,16 +1,45 @@
-### Hi there 👋
 
-<!--
-**kalyani2003/kalyani2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
+</div>
+<br>
+<p align="center">
+Hello 👋 I'm kalyani Mhala, Final Year Student At PRMCEAM.
+and I'm Eager To Gain Knowledge And Experience.
+I'm Passionate About Exploring And Creating Innovative Solutions That Can Make An Impact On The World. 
+My current tech stack 👩‍💻 that I'm working on Data science, Python, Java, Amazon Web services (AWS).
+I'm always interested in hearing from other's and intresting creative folk, so feel free to connect with me 😊
+  
+Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com)
+</br>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kalyani2003&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyani2003&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=kalyani2003&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
+
+<!-- <p align="center">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=kalyani2003&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=kalyani2003&repo=pixel-weather">
+</p> -->
+
+----
+<p align="center">
+<a href="https://twitter.com/kalyani_mhala">
+  <img align="centre" alt="Kalyani's Twitter" width="40px" align="centre" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="https://instagram.com/unpredicted_soul">
+  <img align="centre" alt="kalyani's Instagram" width="40px"  align="centre" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://www.linkedin.com/in/kalyani-mhala-59647921b">
+  <img align="centre" alt="Kalyani's LinkedIn" width="40px" align="centre" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+</p>
+
+
