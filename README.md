@@ -5,7 +5,7 @@
 <br>
 <p align="center">
 Hello 👋 I'm kalyani Mhala, Final Year Student At PRMCEAM.
-and I'm Eager To Gain Knowledge And Experience.
+I'm Eager To Gain Knowledge And Experience.
 I'm Passionate About Exploring And Creating Innovative Solutions That Can Make An Impact On The World. 
 My current tech stack 👩‍💻 that I'm working on Data science, Python, Java, Amazon Web services (AWS).
 I'm always interested in hearing from other's and intresting creative folk, so feel free to connect with me 😊
