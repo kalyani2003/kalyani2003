@@ -4,9 +4,10 @@
 </div>
 <br>
 <p align="center">
-Hello 👋 I'm kalyani Mhala,
-My current tech stack 👩‍💻 that I'm working on Data science,
-Python, Java, Amazon Web services (AWS).
+Hello 👋 I'm kalyani Mhala <br>
+  
+My current tech stack 👩‍💻 that I'm working on- Data science 📊,
+Python 🐍,  Java 👩‍💻,  Amazon Web services (AWS) 📈
 connect with me at -
   
 Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com) 😊
