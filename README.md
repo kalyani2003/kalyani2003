@@ -43,5 +43,5 @@ Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com) 😊
   <img align="centre" alt="Kalyani's LinkedIn" width="40px" align="centre" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 </p>
-
+[![kalyani2003's GitHub | Topics Over Time](https://stats.quine.sh/kalyani2003/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kalyani2003)
 
