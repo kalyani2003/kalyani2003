@@ -48,4 +48,5 @@ Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com) 😊
 
 [![kalyani2003's GitHub | Languages Over Time](https://stats.quine.sh/kalyani2003/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kalyani2003)
 
+[![kalyani2003's Stack Overflow | Stats](https://stats.quine.sh/kalyani2003/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kalyani2003)
 
