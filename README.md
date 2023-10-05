@@ -1,13 +1,34 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="350"/>
 </div>
-<br>
 <p align="center">
-Hello 👋 I'm kalyani Mhala <br>
+Hello 👋 I am Kalyani Mhala <br>
   
 My current tech stack 👩‍💻 that I'm working on- Data science 📊,
 Python 🐍,  Java 👩‍💻,  Amazon Web services (AWS) 📈
+
+## 🌟 Interests
+
+In addition to my technical skills, I have a passion for:
+
+- 🚀 Open-source contributions
+- 📚 Continuous learning
+- 🌐 Building Android applications
+
+**Languages and Tools:** 
+
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+
 connect with me at -
   
 Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com) 😊
