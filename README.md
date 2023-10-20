@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250"/>
 </div>
 <p align="center">
 Hello 👋 I am Kalyani Mhala <br>
@@ -13,6 +13,12 @@ Python 🐍,  Java 👩‍💻,  Amazon Web services (AWS) 📈
 In addition to my technical skills, I have a passion for:
 
 - 🚀 Open-source contributions
+  ### Hacktoberfest 2k23 :
+  ![image](https://github.com/kalyani2003/kalyani2003/assets/84217977/12ac8948-8551-420b-9a8a-f73fd3e4278e)
+
+
+  (https://holopin.io/@kalyani2003)
+
 - 📚 Continuous learning
 - 🌐 Building Android applications
 
