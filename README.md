@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250"/>
 </div>
 <p align="center">
-Hello 👋 I am Kalyani Mhala <br>
+Hello 👋 I am Kalyani Mhala <br> 
   
 My current tech stack 👩‍💻 that I'm working on- Data science 📊,
 Python 🐍,  Java 👩‍💻,  Amazon Web services (AWS) 📈
