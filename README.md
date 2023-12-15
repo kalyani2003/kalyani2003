@@ -3,10 +3,12 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250"/> 
 </div>
 <p align="center"> 
-Hello 👋 I am Kalyani Mhala <br>
-  
-My current tech stack 👩‍💻 that I'm working on- Data science 📊,
-Python 🐍,  Java 👩‍💻,  Amazon Web services (AWS) 📈
+Hello 👋, I'm kalyani Mhala <br>
+Final Year Student At PRMCEAM, on a quest to soak up knowledge and dive into innovative solutions that can reshape our world. 
+
+My current tech stack  👩‍💻that I'm working on Java, DSA 📊, SQL, Python 🐍 and Data science 📈, 
+I'm not just a tech enthusiast but also an avid open-source contributor, a collaborative team player, 
+and a quick learner with a knack for creative problem-solving. 
 
 ## 🌟 Interests
 
@@ -35,9 +37,10 @@ In addition to my technical skills, I have a passion for:
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-connect with me at -
+I'm eager to connect with fellow passionate minds, so don't hesitate to reach out,
+drop me a line at -
   
-Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com) 😊
+Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com) 😊 Let's create and learn together! 🚀
 </br>
 </p> 
 
