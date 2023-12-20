@@ -8,7 +8,7 @@ Final Year Student At PRMCEAM, on a quest to soak up knowledge and dive into inn
 
 My current tech stack  👩‍💻that I'm working on Java, DSA 📊, SQL, Python 🐍 and Data science 📈, 
 I'm not just a tech enthusiast but also an avid open-source contributor, a collaborative team player, 
-and a quick learner with a knack for creative problem-solving.  
+and a quick learner with a knack for creative problem-solving. 
 
 ## 🌟 Interests
 
