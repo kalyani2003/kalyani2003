@@ -26,6 +26,7 @@ In addition to my technical skills, I have a passion for:
 
 - 📚 Continuous learning
 - 🌐 Building Android applications
+<br>
 
 **Languages and Tools:** 
 
