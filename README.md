@@ -50,7 +50,6 @@ Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com) 😊 Let's
 </br>
 </p> 
 
-<br>
 ----
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kalyani2003&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
