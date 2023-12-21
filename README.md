@@ -10,12 +10,14 @@ My current tech stack  👩‍💻that I'm working on Java, DSA 📊, SQL, Pytho
 I'm not just a tech enthusiast but also an avid open-source contributor, a collaborative team player, 
 and a quick learner with a knack for creative problem-solving. 
 <br>
-
+</br>
 ## 🌟 Interests
 
 In addition to my technical skills, I have a passion for:
 
 - 🚀 Open-source contributions
+  <br>
+  </br>
   ### Hacktoberfest 2k23 :
   ![image](https://github.com/kalyani2003/kalyani2003/assets/84217977/12ac8948-8551-420b-9a8a-f73fd3e4278e)
 
