@@ -41,6 +41,8 @@ In addition to my technical skills, I have a passion for:
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
+<br>
+
 I'm eager to connect with fellow passionate minds, so don't hesitate to reach out,
 drop me a line at -
   
@@ -48,7 +50,7 @@ Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com) 😊 Let's
 </br>
 </p> 
 
-
+<br>
 ----
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kalyani2003&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
