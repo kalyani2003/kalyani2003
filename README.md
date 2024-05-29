@@ -11,7 +11,7 @@ I'm not just a tech enthusiast but also an avid open-source contributor, a colla
 and a quick learner with a knack for creative problem-solving. 
 <br>
 </br>
-## 🌟 Interests
+## 🌟 Interests 🌟
 
 In addition to my technical skills, I have a passion for:
 
@@ -28,7 +28,7 @@ In addition to my technical skills, I have a passion for:
 - 🌐 Building Android applications
 <br>
 
-**Languages and Tools:** 
+### ***Languages and Tools:*** 
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
@@ -70,7 +70,7 @@ Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com) 😊 Let's
   <img align="centre" alt="Kalyani's Twitter" width="40px" align="centre" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
   
-<a href="https://instagram.com/unpredicted_soul">
+<a href="https://instagram.com/itz_kalyanii__">
   <img align="centre" alt="kalyani's Instagram" width="40px"  align="centre" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 
