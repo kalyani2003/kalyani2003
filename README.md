@@ -67,16 +67,21 @@ Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com) 😊 Let's
 ----
 <p align="center">
 <a href="https://twitter.com/kalyani_mhala">
-  <img align="centre" alt="Kalyani's Twitter" width="40px" align="centre" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="centre" alt="Kalyani's Twitter" width="35px" align="centre" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
   
 <a href="https://instagram.com/itz_kalyanii__">
-  <img align="centre" alt="kalyani's Instagram" width="40px"  align="centre" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="centre" alt="kalyani's Instagram" width="35px"  align="centre" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 
 <a href="https://www.linkedin.com/in/kalyani-mhala-59647921b">
-  <img align="centre" alt="Kalyani's LinkedIn" width="40px" align="centre" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="centre" alt="Kalyani's LinkedIn" width="35px" align="centre" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
+
+<a href="https://www.gmail.com/in/kalyanimhala54@gmail.com">
+  <img align="centre" alt="Kalyani's Gmail" width="35px" align="centre" src="https://simpleicons.now.sh/gmail/495f7e" />
+</a>
+
 </p>
 
 
