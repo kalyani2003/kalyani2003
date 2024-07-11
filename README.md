@@ -66,9 +66,6 @@ Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com) 😊 Let's
 
 ----
 <p align="center">
-<a href="https://twitter.com/kalyani_mhala">
-  <img align="centre" alt="Kalyani's Twitter" width="35px" align="centre" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
   
 <a href="https://instagram.com/itz_kalyanii__">
   <img align="centre" alt="kalyani's Instagram" width="35px"  align="centre" src="https://simpleicons.now.sh/instagram/495f7e" />
