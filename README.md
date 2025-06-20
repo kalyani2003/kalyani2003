@@ -59,26 +59,5 @@ Mail ID - [kalyanimhala54@gmail.com](mailto:kalyanimhala54@gmail.com) 😊 Let's
   <br>
 </p>
 
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=kalyani2003&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=kalyani2003&repo=pixel-weather">
-</p> -->
-
-----
-<p align="center">
-  
-<a href="https://instagram.com/itz_kalyanii__">
-  <img align="centre" alt="kalyani's Instagram" width="35px"  align="centre" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-
-<a href="https://www.linkedin.com/in/kalyani-mhala-59647921b">
-  <img align="centre" alt="Kalyani's LinkedIn" width="35px" align="centre" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-
-<a href="https://www.gmail.com/in/kalyanimhala54@gmail.com">
-  <img align="centre" alt="Kalyani's Gmail" width="35px" align="centre" src="https://simpleicons.now.sh/gmail/495f7e" />
-</a>
-
-</p>
 
 
