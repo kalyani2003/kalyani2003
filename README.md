@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="250"/>  
 </div>
 <p align="center"> 
-Hello 👋, I'm kalyani Mhala <br>
+Hello 👋, Kalyani Here <br>
 Graduated in Computer Science Engineering, on a quest to soak up knowledge and dive into innovative solutions that can reshape our world.  
 
 My current tech stack  👩‍💻that I'm working on Java fullstack development, DSA 📊, SQL and Data science 📈, 
