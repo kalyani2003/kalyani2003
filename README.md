@@ -4,9 +4,9 @@
 </div>
 <p align="center"> 
 Hello 👋, I'm kalyani Mhala <br>
-Final Year Student At PRMCEAM, on a quest to soak up knowledge and dive into innovative solutions that can reshape our world.  
+Graduated in Computer Science Engineering, on a quest to soak up knowledge and dive into innovative solutions that can reshape our world.  
 
-My current tech stack  👩‍💻that I'm working on Java, DSA 📊, SQL, Python 🐍 and Data science 📈, 
+My current tech stack  👩‍💻that I'm working on Java fullstack development, DSA 📊, SQL and Data science 📈, 
 I'm not just a tech enthusiast but also an avid open-source contributor, a collaborative team player, 
 and a quick learner with a knack for creative problem-solving. 
 <br>
